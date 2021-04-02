@@ -1,5 +1,5 @@
 # Boosted-EfficientNet-Detection-of-Lymph-Node-Metastases-in-Breast-Cancer-Using-Convolutional-Neural
-The official pytorch implementation of our paper "Boosted EfficientNet: Detection of Lymph Node Metastases in Breast Cancer Using Convolutional Neural Networks".[pdf](https://www.mdpi.com/2072-6694/13/4/661)
+The official pytorch implementation of our paper "Boosted EfficientNet: Detection of Lymph Node Metastases in Breast Cancer Using Convolutional Neural Networks".[[pdf](https://www.mdpi.com/2072-6694/13/4/661)]
 
 ## Requirements:
 * Pytorch=1.6
@@ -10,7 +10,7 @@ The official pytorch implementation of our paper "Boosted EfficientNet: Detectio
 * sklearn
 
 ## Data:
-Please download the data from Kaggle (https://www.kaggle.com/c/histopathologic-cancer-detection/data), and put them in the folder 'data'.
+Please download the data from [Kaggle](https://www.kaggle.com/c/histopathologic-cancer-detection/data), and put them in the folder 'data'.
 
 ## Training and Testing"
 ```
